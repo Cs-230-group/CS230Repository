@@ -4,3 +4,5 @@ Please Document What we worked on.
 
 Week 3 (Thursday, February 1st):
 Entrepeneur and Ethics Project
+
+Testing 
