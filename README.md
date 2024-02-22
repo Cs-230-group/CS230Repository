@@ -3,9 +3,6 @@ Projects: Entrepreneurism and Ethics
 Please Document What we worked on.
 
 Week 3 (Thursday, February 1st):
-Case Study with Professional Ethics
-ACLU v. Clearview AI
-
 Entrepeneur and Ethics Project
 Game Developer Company or Security System for Messaging 
 
