@@ -4,14 +4,13 @@
 
 One of our goals is to become a viable solution for detecting bots across a wide range of social platforms and messaging channels. We also want to promote online safety, critical thinking in regards to the internet, as well as offer tools to verify the authenticity of digital media. In the process of our aforementioned goals, we want to uphold fairness, privacy, and respect for users. 
 
-
 ## Idea Origination
 
 The reason we chose this topic was because of the considerable decline of internet safety knowledge and simultaneous rise of bot activity online. With monumental developments in generative AI models, they have quickly fallen under the use of bad actors: ranging from innocent photos to falsified speeches given by influential figures, we want to help create a space between human and ingenuine, programmed activity. 
 
 ## Purpose/Values/Mission
 
-Our purpose is to create a digital ecosystem that is once more authentic and trustworthy. We are committed to transparency, integrity, and accountability, in order to acknowledge how powerful modern technology is in influencing the spread of information. Our mission is to fire with fire: develop an algorithm that quickly detects and suppresses bots, but also develop an equally powerful team of people to assist this algorithm. The goal is to make it easier to discern from fiction and reality online where it is increasingly difficult to.
+Our purpose is to create an online world that is safer and more trustworthy. We want to develop advanced tools and systems that identify and suppress falsified activity and misinformation. By providing accessible resources and solutions, we are able to foster a digital environment where truth prevails and users are able to make more informed decisions when consuming information online.
 
 ## Key Questions 
 
@@ -45,7 +44,7 @@ Collecting bot data can lead to unintentionally storing human user data labeled 
 
 ### Ethical Safeguards
 
-We want to remedy that by open-sourcing our algorithm, and making sure the output of our algorithm is heavily moderated by a team of real people. We will also make transparent the types of data that we will collect, with consent from users.
+We want to remedy the issues of our first goal by open-sourcing our algorithm, and making sure the output of our algorithm is heavily moderated by a team of real people. We will also make transparent the types of data that we will collect, with consent from users.
 
 Prior to publishing any sort of content to our socials or online course, we will check with experts to ensure that the information that we provide is accurate. We will also seek user consent for any data obtaining activities. 
 
