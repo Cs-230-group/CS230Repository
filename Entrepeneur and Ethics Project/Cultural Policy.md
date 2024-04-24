@@ -13,5 +13,5 @@ Our desired company culture, we love the diversity of perspectives that fuel cre
 3. Transparent 
 4. Innovative 
 5. Collaborative
-6. Secure
+6. Adaptive
 
