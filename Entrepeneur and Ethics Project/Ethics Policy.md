@@ -1,7 +1,16 @@
 ## Core Items
 
-((replace with text))
+We have three main policies about ethics in our business that we follow to make and develop software that is useful to everyone while not breaking any moral code of our employees and clients. 
+  To start with, our first policy is “Hinder unwanted invasive actions between clients”. As a social media messaging security company, we do not want any of our users to feel under some sort of threat without the ability to do anything about it. We don’t want anyone to feel a lack of privacy due to the actions of someone they are messaging. We also don’t want to be too nosy into the chats between other people as a company. Hopefully, we will solve this by using some form of AI to report any signs of danger. We will also ask permission before getting involved. Only the person who gave permission will know that we are watching them unless the person wants the other person to know as well. This way no one's personal information will be seen without consent by the company or the other person.
+  Our second policy is to “Be useful to the community”. Providing emergency alerts to our users and offering support through text and helplines. This enables us to help our community and provide a positive impact using social media messaging security. We will also hire professionals to be able to offer consulting to anyone who might need it.
+  Next, we have “Do not interrupt important or positive communication”. We do not want to cause any harm to the relationships of any family member, friend, or colleague due to our intervention. We hope to only be used in cases such as someone is about to leak private information or cause harm to the individual(s) on the other end.
+  To Conclude the core items of our company, we hold these values very close as we believe it is a very important factor to how safe messaging happens online. Every step we make takes into consideration these principles.
 
 ## Board
 
-((replace with text))
+  Three real people that we would like to have on our board are Anita Nikolich, and Florian Schaub.
+
+	Our first member chosen is Anita Nikolich, Anita is a Cyber Security Director at the National Science Foundation. Anita has much experience in academia and industry to which she has dedicated her career in tech, to be more direct in social media security. We have chosen Anita because much of her research is primarily focused on data protection, platforms that use messaging, and privacy. With her expertise and insight we can build a better foundation for our company to grow and strive . It is for this reason we believe she would be a strong asset to our board and provide great support for our team.
+	
+	Our next member chosen is Florian Schaub, Florian is an associate professor of information in electrical engineering and computer science at the University of Michigan. Florians' main focus is on cyber security, privacy, and human behavior related to social media security. Mr. Schaub has an immense amount of knowledge that correlates to ethical policies in social media security that work on creating a better environment for a cyber ecosystem, gaining trust and protection for users. With Mr. Schaub, we gain more ethical expertise, professional help, and much more. For these reasons we believe that Florian Schaub would be a great asset to our team and our company. 
+
