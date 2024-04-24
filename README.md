@@ -2,6 +2,8 @@
 Projects: Entrepreneurism and Ethics
 Please Document What we worked on.
 
+Members: Sohail Mir, Lorence Edquid, Marycruz Maciel, and Gladwin Mathew Prabhu Rajkumar
+
 Week 3 (Thursday, February 1st):
 Entrepeneur and Ethics Project
 Game Developer Company or Security System for Messaging 
