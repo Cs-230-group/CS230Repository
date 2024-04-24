@@ -1,7 +1,7 @@
 # CS230Repository
 Projects: Entrepreneurism and Ethics
 Please Document What we worked on.
-
+Youtube Video Link: https://youtu.be/EYGSsM12Fyc
 Members: Sohail Mir, Lorence Edquid, Marycruz Maciel, and Gladwin Mathew Prabhu Rajkumar
 
 Week 3 (Thursday, February 1st):
