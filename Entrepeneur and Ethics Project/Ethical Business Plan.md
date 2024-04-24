@@ -22,7 +22,7 @@ Three key questions drive our company: How can we reduce the amount of false pos
 
 We set our sights on three outcomes, one of which is reduced bot activity on social media. We should accomplish this by successfully suppressing 5000 bot accounts, utilizing an in-house created bot detecting algorithm. We also want to partner with two major social media or messaging companies to make this happen. 
 
-Our second outcome is to educate the general public on bots and suspicious activity online. We want this course to be easy and practical, helping people recognize signs of automated accounts and understand malicious tactics like scamming and phishing. Offering this course for free ensures that everyone has the knowledge to stay safe online. At the same time, we also want to run a social media campaign in the same vein as our free course in order to spread awareness of it and reach a bigger audience.
+Our second outcome is to educate the general public on bots and suspicious activity online. We want to create an online course that is easy and practical, helping people recognize signs of automated accounts and understand malicious tactics like scamming and phishing. Offering this course for free ensures that everyone has the knowledge to stay safe online. At the same time, we also want to run a social media campaign in the same vein as our free course in order to spread awareness of it and reach a bigger audience.
 
 Lastly, we want to analyze bot trends by building a database of unique bot accounts categorized around their activities. Using this, we can identify patterns and remain ahead of bad actors.
  
