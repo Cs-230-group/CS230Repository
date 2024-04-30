@@ -1,3 +1,5 @@
+#Wiki Link: https://github.com/Cs-230-group/CS230Repository/wiki
+
 # CS230Repository
 Projects: Entrepreneurism and Ethics
 Please Document What we worked on.
